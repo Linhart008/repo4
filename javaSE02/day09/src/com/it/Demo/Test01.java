@@ -13,7 +13,6 @@ public class Test01 {
         DriverManager.registerDriver(new Driver());
 
 
-
         String url = "jdbc:mysql://localhost:3306/day05";
         String username = "root";
         String password = "8573";
@@ -105,7 +104,11 @@ public class Test01 {
 
     }
 
-    public void test(){
+    public void test() {
         System.out.println("123");
+    }
+
+    public void test() {
+        System.out.println("456");
     }
 }
