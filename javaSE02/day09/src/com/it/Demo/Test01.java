@@ -110,5 +110,11 @@ public class Test01 {
 
     public void test() {
         System.out.println("456");
+    }public void test() {
+        System.out.println("789");
+    }public void test() {
+        System.out.println("234");
+    }public void test() {
+        System.out.println("666");
     }
 }
